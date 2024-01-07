@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.13;
+import "@thirdweb-dev/contracts/extension/ContractMetadata.sol";
 
 contract CustomerFeedbackModule {
     address public owner;
